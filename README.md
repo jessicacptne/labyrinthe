@@ -1,3 +1,3 @@
 # labyrinthe
 
-*[vr] (https://jessicacptne.github.io/labyrinthe/labyrinthe.html)
+* [vr](https://jessicacptne.github.io/labyrinthe/labyrinthe.html)
