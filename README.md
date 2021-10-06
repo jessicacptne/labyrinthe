@@ -1,2 +1,3 @@
 # labyrinthe
-#g
+
+*[vr] labyrinthe.html 
